@@ -20,6 +20,7 @@ public class Examen {
         // TODO code application logic here
         Scanner teclado = new Scanner(System.in);
         int select;
+        System.out.println("Este es un programa de conversiones");
         do {
             System.out.println("|----------MENU----------|");
             System.out.println("| 1.Horas --> Segundos   |");
